@@ -1,4 +1,4 @@
-# Real-time zoon-in & zoom-out using hand gestures through Computer Vision
+# Real-time zoom-in & zoom-out using hand gestures through Computer Vision
 
 ## About this app
 
