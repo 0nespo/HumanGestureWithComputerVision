@@ -1,15 +1,3 @@
-##################################################
-#### Written By: SATYAKI DE                   ####
-#### Written On: 23-May-2022                  ####
-#### Modified On 24-May-2022                  ####
-####                                          ####
-#### Objective: This is the main calling      ####
-#### python script that will invoke the       ####
-#### clsVideoZoom class to initiate           ####
-#### the model to read the real-time          ####
-#### human hand gesture from video            ####
-#### Web-CAM & control zoom-in & zoom-out.    ####
-##################################################
 
 import mediapipe as mp
 import cv2

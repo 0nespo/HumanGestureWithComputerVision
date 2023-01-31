@@ -1,10 +1,3 @@
-##############################################
-#### Written By: SATYAKI DE               ####
-#### Written On: 20-Dec-2019              ####
-#### Modified On 20-Dec-2019              ####
-####                                      ####
-#### Objective: Main scripts for logging  ####
-##############################################
 
 import pandas as p
 import os

@@ -1,14 +1,3 @@
-##################################################
-#### Written By: SATYAKI DE                   ####
-#### Modified On 23-May-2022                  ####
-####                                          ####
-#### Objective: This is the main calling      ####
-#### python class that will capture the       ####
-#### human hand gesture on real-time basis    ####
-#### and that will enable the video zoom      ####
-#### capability of the feed directly coming   ####
-#### out of a Web-CAM.                        ####
-##################################################
 
 import mediapipe as mp
 import cv2

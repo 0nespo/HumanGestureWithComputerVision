@@ -1,13 +1,3 @@
-################################################
-#### Written By: SATYAKI DE                 ####
-#### Written On:  15-May-2020               ####
-#### Modified On: 24-May-2022               ####
-####                                        ####
-#### Objective: This script is a config     ####
-#### file, contains all the keys for        ####
-#### Machine-Learning & streaming dashboard.####
-####                                        ####
-################################################
 
 import os
 import platform as pl
